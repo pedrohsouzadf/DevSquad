@@ -1,2 +1,0 @@
-"# Desafio-DevSquad" 
-# DevSquad
